@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be06263f-eda9-4e31-9433-84b2c27b2034" name="Default Changelist" comment="" />
+    <list default="true" id="be06263f-eda9-4e31-9433-84b2c27b2034" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/navigation/tests/homework4/W3Schools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navigation/tests/homework4/W3Schools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/navigation/tests/olympics/DefaultSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/navigation/tests/olympics/DefaultSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Basic Navigation Homework II.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/navigation/tests/homework4/W3Schools.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/navigation/tests/homework4/W3Schools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/navigation/tests/olympics/DefaultSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/navigation/tests/olympics/DefaultSortTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Basic Navigation Homework II" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,21 +23,21 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z7ikixsAfX0EjXs1Q4bAB8lOVi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
@@ -40,23 +46,12 @@
       <recent name="C:\Users\mesti\IdeaProjects\Basic Navigation Homework II\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DefaultSortTest.defaultSortTest">
-    <configuration name="DefaultSortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.W3Schools.testingATags">
+    <configuration name="W3Schools.testingATags (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Basic Navigation Homework II" />
-      <option name="PACKAGE_NAME" value="com.navigation.tests.olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.olympics.DefaultSortTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DefaultSortTest.defaultSortTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Basic Navigation Homework II" />
-      <option name="PACKAGE_NAME" value="com.navigation.tests.olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.olympics.DefaultSortTest" />
-      <option name="METHOD_NAME" value="defaultSortTest" />
+      <option name="PACKAGE_NAME" value="com.navigation.tests.homework4" />
+      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.homework4.W3Schools" />
+      <option name="METHOD_NAME" value="testingATags" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -64,11 +59,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultSortTest.defaultSortTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="W3Schools.testingATags (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Basic Navigation Homework II" />
-      <option name="PACKAGE_NAME" value="com.navigation.tests.olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.olympics.DefaultSortTest" />
-      <option name="METHOD_NAME" value="defaultSortTest" />
+      <option name="PACKAGE_NAME" value="com.navigation.tests.homework4" />
+      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.homework4.W3Schools" />
+      <option name="METHOD_NAME" value="testingATags" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,11 +71,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultSortTest.defaultSortTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="W3Schools.testingATags (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Basic Navigation Homework II" />
-      <option name="PACKAGE_NAME" value="com.navigation.tests.olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.olympics.DefaultSortTest" />
-      <option name="METHOD_NAME" value="defaultSortTest" />
+      <option name="PACKAGE_NAME" value="com.navigation.tests.homework4" />
+      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.homework4.W3Schools" />
+      <option name="METHOD_NAME" value="testingATags" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -88,11 +83,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultSortTest.defaultSortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="W3Schools.testingATags (5)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Basic Navigation Homework II" />
-      <option name="PACKAGE_NAME" value="com.navigation.tests.olympics" />
-      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.olympics.DefaultSortTest" />
-      <option name="METHOD_NAME" value="defaultSortTest" />
+      <option name="PACKAGE_NAME" value="com.navigation.tests.homework4" />
+      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.homework4.W3Schools" />
+      <option name="METHOD_NAME" value="testingATags" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3Schools.testingATags" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Basic Navigation Homework II" />
+      <option name="PACKAGE_NAME" value="com.navigation.tests.homework4" />
+      <option name="MAIN_CLASS_NAME" value="com.navigation.tests.homework4.W3Schools" />
+      <option name="METHOD_NAME" value="testingATags" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -102,15 +109,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DefaultSortTest.defaultSortTest" />
-        <item itemvalue="TestNG.DefaultSortTest.defaultSortTest (3)" />
-        <item itemvalue="TestNG.DefaultSortTest" />
-        <item itemvalue="TestNG.DefaultSortTest.defaultSortTest (2)" />
-        <item itemvalue="TestNG.DefaultSortTest.defaultSortTest (1)" />
+        <item itemvalue="TestNG.W3Schools.testingATags" />
+        <item itemvalue="TestNG.W3Schools.testingATags (5)" />
+        <item itemvalue="TestNG.W3Schools.testingATags (4)" />
+        <item itemvalue="TestNG.W3Schools.testingATags (3)" />
+        <item itemvalue="TestNG.W3Schools.testingATags (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1586385549838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586385549838" />
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1588694115974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588694115974" />
     <state x="407" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585577664343">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -119,22 +134,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584565500961" />
-    <state width="1537" height="312" key="GridCell.Tab.0.bottom" timestamp="1586098040812">
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom" timestamp="1588703737344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="312" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586098040812" />
-    <state width="1537" height="312" key="GridCell.Tab.0.center" timestamp="1586098040811">
+    <state width="1493" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586555831453" />
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588703737344" />
+    <state width="1493" height="320" key="GridCell.Tab.0.center" timestamp="1588703737344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="312" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586098040811" />
-    <state width="1537" height="312" key="GridCell.Tab.0.left" timestamp="1586098040811">
+    <state width="1493" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586555831452" />
+    <state width="1493" height="320" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588703737344" />
+    <state width="1493" height="320" key="GridCell.Tab.0.left" timestamp="1588703737344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="312" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586098040811" />
-    <state width="1537" height="312" key="GridCell.Tab.0.right" timestamp="1586098040811">
+    <state width="1493" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586555831451" />
+    <state width="1493" height="320" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588703737344" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right" timestamp="1588703737344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="312" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586098040811" />
+    <state width="1493" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586555831452" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588703737344" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1585961026285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -147,10 +166,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="436" y="19" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584481229740" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586025411210">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588699836724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586025411210" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588699836724" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
